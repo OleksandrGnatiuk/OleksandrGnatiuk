@@ -20,7 +20,9 @@
 ### You can contact me:
 
 [<img align="left" alt="Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />][Linkedin]
+[<img align="left" alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />][Gmail]
 
+[Gmail]:mailto:oleksandr.gnatiuk@gmail.com
 [Linkedin]:https://linkedin.com/in/oleksandr-gnatiuk-a34b1b216
 [Python]:https://www.python.org/
 [GIT]:https://git-scm.com/
