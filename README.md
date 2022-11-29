@@ -1,5 +1,5 @@
 - 👋 Hi, I’m __Oleksandr Gnatiuk__
-- 🌱 Currently I'm learning __Python__ at GoIT Academy
+- 🌱 Currently I'm learning __Python__ at IT School GoIT
 
 ---
 ### Skills and Tools
