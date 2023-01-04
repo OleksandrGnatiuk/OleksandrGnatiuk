@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/OleksandrGnatiuk/OleksandrGnatiuk.svg)](http://hits.dwyl.com/OleksandrGnatiuk/OleksandrGnatiuk)
+
 - 👋 Hi, I’m __Oleksandr Gnatiuk__.
 - 🌱 Currently I'm learning __Python__ at IT School GoIT.
 
