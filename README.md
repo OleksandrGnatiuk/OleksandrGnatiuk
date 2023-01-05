@@ -4,6 +4,7 @@
 - Currently I'm learning **Python** at IT School GoIT.
 
 ---
+
 #### Skills and Tools
 
 <p align="left">
@@ -12,6 +13,7 @@
   </a>
 </p>
 
-![OleksandrGnatiuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrGnatiuk&show_icons=true&theme=radical)
-
 ___
+
+
+![OleksandrGnatiuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrGnatiuk&show_icons=true&theme=radical)
