@@ -12,8 +12,3 @@
     <img src="https://skillicons.dev/icons?i=python,git,html,css,github,vscode" />
   </a>
 </p>
-
-___
-
-
-![OleksandrGnatiuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrGnatiuk&show_icons=true&theme=radical)
